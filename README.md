@@ -17,11 +17,10 @@ I'm looking for a **12-month internship (Pflichtpraktikum) in Berlin from Februa
 More: [E-Commerce OOP](https://github.com/anirrudhgg/python-ecommerce-OOP) · [ESP8266 Traffic Light](https://github.com/anirrudhgg/German-traffic-light-system) · [Loadout Locker (Flutter)](https://github.com/anirrudhgg/Loadout_Locker_Dashboard) · [Data Visualisation](https://github.com/anirrudhgg/Data_Visualisation)
 
 #### Tech
-
-**Languages:** Python · C · SQL · Dart · HTML/CSS
-**Backend & data:** REST APIs · Flask · TCP sockets · MySQL · pandas
-**AI:** LangChain · RAG · ChromaDB · Ollama
-**Tools:** Git · Google Cloud · Wireshark · Jupyter · Linux
+- **Languages:** Python · C · SQL · Dart · HTML/CSS
+- **Backend & data:** REST APIs · Flask · TCP sockets · MySQL · pandas
+- **AI:** LangChain · RAG · ChromaDB · Ollama
+- **Tools:** Git · Google Cloud · Wireshark · Jupyter · Linux
 
 #### Languages
 
